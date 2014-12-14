@@ -1,0 +1,153 @@
+format version: 1
+products:
+26 items
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$1.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$10.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$11.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$12.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$13.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$14.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$15.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$16.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$17$$anonfun$18.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$17$$anonfun$apply$1.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$17$$anonfun$apply$2.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$17.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$2.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$3.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$4.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$5.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$6.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$7.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$8.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$9.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$kafkaHttp$1.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$kafkaHttp$2.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$kafkaHttp$3.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$kafkaHttp$4.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$.class
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild.class
+binary dependencies:
+11 items
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.1.jar
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> /Users/andresgomez/.sbt/boot/scala-2.10.3/lib/scala-library.jar
+source dependencies:
+0 items
+external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+class names:
+26 items
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$1
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$10
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$11
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$12
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$13
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$14
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$15
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$16
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$17
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$17$$anonfun$18
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$17$$anonfun$apply$1
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$17$$anonfun$apply$2
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$2
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$3
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$4
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$5
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$6
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$7
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$8
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$9
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$kafkaHttp$1
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$kafkaHttp$2
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$kafkaHttp$3
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> KafkaHttpBuild$$anonfun$kafkaHttp$4
+product stamps:
+26 items
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$1.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$10.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$11.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$12.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$13.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$14.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$15.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$16.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$17$$anonfun$18.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$17$$anonfun$apply$1.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$17$$anonfun$apply$2.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$17.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$2.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$3.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$4.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$5.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$6.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$7.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$8.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$9.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$kafkaHttp$1.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$kafkaHttp$2.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$kafkaHttp$3.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$$anonfun$kafkaHttp$4.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild$.class -> lastModified(1418579318000)
+/Users/andresgomez/wifi-project/kafka-http/project/target/scala-2.10/sbt-0.13/classes/KafkaHttpBuild.class -> lastModified(1418579318000)
+source stamps:
+1 items
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> hash(fbd4477f06e0dd9386d0475900d2700e11e1e540)
+binary stamps:
+11 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1377578580000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.1.jar -> lastModified(1386688489000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.1.jar -> lastModified(1386688482000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.1.jar -> lastModified(1386688486000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.1.jar -> lastModified(1386688530000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.1.jar -> lastModified(1386688538000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.1.jar -> lastModified(1386688549000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.1.jar -> lastModified(1386688484000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.1.jar -> lastModified(1386688545000)
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.1.jar -> lastModified(1386688533000)
+/Users/andresgomez/.sbt/boot/scala-2.10.3/lib/scala-library.jar -> lastModified(1380275091000)
+class names:
+11 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.1.jar -> sbt.appmacro.Instance$
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.1.jar -> sbt.LinePosition$
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.1.jar -> sbt.IO$
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.1.jar -> sbt.Credentials
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.1.jar -> sbt.std.FullInstance$
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.1.jar -> sbt.Build
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.1.jar -> sbt.Process$
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.1.jar -> sbt.package$
+/Users/andresgomez/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.1.jar -> sbt.Task
+/Users/andresgomez/.sbt/boot/scala-2.10.3/lib/scala-library.jar -> scala.collection.GenTraversableOnce
+internal apis:
+1 items
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSIdu0j8FrMwCAAVJAAdhcGlIYXNoWgAIaGFzTWFjcm9MAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCjwHAqAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AA54cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOS2Fma2FIdHRwQnVpbGR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAoeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAnAHBzcQB+ACxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ADkwACWluaGVyaXRlZHEAfgAOTAAHcGFyZW50c3EAfgAOeHEAfgAwc3EAfgAnAHBzcQB+ACx1cQB+AAkAAAAAc3EAfgAnAHBzcQB+ACx1cQB+AAkAAAAAc3EAfgAnAHBzcQB+ACx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AFUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AC90AAVCdWlsZHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AL3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABV4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADc2J0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AE1zcQB+AEB0AAZPYmplY3RzcQB+AERzcQB+AEd1cQB+AEoAAAADc3EAfgBMdAAEamF2YXNxAH4ATHQABGxhbmdxAH4AUXNxAH4AQHQAA0FueXNxAH4ARHNxAH4AR3VxAH4ASgAAAAJzcQB+AEx0AAVzY2FsYXEAfgBRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUpJ6m6NdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAVTAAPc291cmNlRGlyZWN0b3J5cQB+ABV4cHQAVS9Vc2Vycy9hbmRyZXNnb21lei93aWZpLXByb2plY3Qva2Fma2EtaHR0cC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT71Ed/BuDdk4bQR1kA0nAOEeHlQA==
+external apis:
+0 items
+source infos:
+1 items
+/Users/andresgomez/wifi-project/kafka-http/project/Build.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+000 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSknqbo11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9hbmRyZXNnb21lei93aWZpLXByb2plY3Qva2Fma2EtaHR0cC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+compile setup:
+1 items
+1 -> 
+AABVL1VzZXJzL2FuZHJlc2dvbWV6L3dpZmktcHJvamVjdC9rYWZrYS1odHRwL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3NlcwAAAAAAAAAAAAYyLjEwLjMAAAAA
