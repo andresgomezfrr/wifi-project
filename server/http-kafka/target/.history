@@ -1,2 +1,0 @@
-val restServer = new RestServer
-exit
