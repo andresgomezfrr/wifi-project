@@ -17,4 +17,4 @@ sudo ifconfig wlan0 up
 ```bash
 sudo python wifiscan.py wlan0
 ```
-4. Run a kafka consumer and ENJOY IT LEL. GG.
+4. Run a kafka consumer and ENJOY IT LEL. GG. EASY.
