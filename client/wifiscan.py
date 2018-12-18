@@ -1,13 +1,15 @@
 from scapy.all import *
-from kafka import KafkaClient, SimpleProducer
+#from kafka import KafkaClient, SimpleProducer
 from datetime import datetime
+from subprocess import call
 import json
+import time
 
 PROBE_REQUEST_TYPE = 0
 PROBE_REQUEST_SUBTYPE = 4
 
-kafka = KafkaClient('localhost:9092')
-producer = SimpleProducer(kafka)
+#kafka = KafkaClient('192.168.1.104:9092')
+#producer = SimpleProducer(kafka)
 
 def packet_handler(pkt):
   if (pkt.haslayer(Dot11)):
@@ -42,12 +44,24 @@ def packet_to_json(pkt):
   return json.dumps(packet_dict)
 
 def send_to_kafka(string):
-  producer.send_messages('wireless', string)
+ # producer.send_messages('wireless', string)
   print string
 
 def main():
-  print "[%s] Starting scan" % datetime.now()
-  sniff(iface = sys.argv[1], prn = packet_handler)
-    
+  while True:
+    print "[%s] Configuring interface monitor mode" % datetime.now()
+    call(["ifconfig", sys.argv[1], "down"])
+    call(["iwconfig", sys.argv[1], "mode", "monitor"])
+    call(["ifconfig", sys.argv[1], "up"])
+    print "[%s] Starting scan" % datetime.now()
+    sniff(iface = sys.argv[1], prn = packet_handler, timeout=60)
+    print "[%s] Stop scan" % datetime.now()  
+    print "[%s] Configuring interface managed mode" % datetime.now()
+    call(["ifconfig", sys.argv[1], "down"])
+    call(["iwconfig", sys.argv[1], "mode", "managed"])
+    call(["ifconfig", sys.argv[1], "up"])
+    call(["route", "add", "default", "gw", sys.argv[2], sys.argv[1]])  
+    time.sleep( 5 )
+
 if __name__ == "__main__":
   main()
