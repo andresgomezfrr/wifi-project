@@ -34,6 +34,7 @@ def process_and_store_packet(pkt):
   packet_dict['device'] = pkt.addr2
   packet_dict['ssid'] = pkt.getlayer(Dot11ProbeReq).info
   packet_dict['rssi'] = signal_strength
+  packet_dict['timestamp'] = datetime.datetime.now().timestamp()
 
   data_dict[pkt.addr2] = json.dumps(packet_dict)
 
@@ -53,8 +54,11 @@ def main():
     call(["ifconfig", sys.argv[1], "up"])
     call(["route", "add", "default", "gw", sys.argv[2], sys.argv[1]])
     time.sleep( 5 )
+    print "[%s] Sending data: "
     for value in data_dict.values():
         print value
+        r = requests.post(sys.argv[3], data=value)
+        print(r.status_code, r.reason)
     data_dict.clear();
 
 if __name__ == "__main__":
