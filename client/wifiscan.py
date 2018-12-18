@@ -3,6 +3,7 @@ from datetime import datetime
 from subprocess import call
 import json
 import time
+import requests
 
 PROBE_REQUEST_TYPE = 0
 PROBE_REQUEST_SUBTYPE = 4
@@ -44,7 +45,7 @@ def main():
     call(["ifconfig", sys.argv[1], "up"])
     print "[%s] Starting scan" % datetime.now()
     sniff(iface = sys.argv[1], prn = packet_handler, timeout=60)
-    print "[%s] Scanned %s devices".format(datetime.now(), data_dict.size())
+    print "[{}] Scanned {} devices".format(datetime.now(), len(data_dict))
     print "[%s] Stop scan" % datetime.now()
     print "[%s] Configuring interface managed mode" % datetime.now()
     call(["ifconfig", sys.argv[1], "down"])
