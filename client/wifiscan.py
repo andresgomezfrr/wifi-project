@@ -34,18 +34,17 @@ def process_and_store_packet(pkt):
   packet_dict['device'] = pkt.addr2
   packet_dict['ssid'] = pkt.getlayer(Dot11ProbeReq).info
   packet_dict['rssi'] = signal_strength
-  packet_dict['timestamp'] = datetime.datetime.now().timestamp()
+  packet_dict['timestamp'] = time.time()
 
   data_dict[pkt.addr2] = json.dumps(packet_dict)
 
 def main():
-  while True:
-    print "[%s] Configuring interface monitor mode" % datetime.now()
+    print "[{}] Configuring interface [{}] monitor mode".format(datetime.now(), sys.argv[1])
     call(["ifconfig", sys.argv[1], "down"])
     call(["iwconfig", sys.argv[1], "mode", "monitor"])
     call(["ifconfig", sys.argv[1], "up"])
     print "[%s] Starting scan" % datetime.now()
-    sniff(iface = sys.argv[1], prn = packet_handler, timeout=60)
+    sniff(iface = sys.argv[1], prn = packet_handler, timeout=120)
     print "[{}] Scanned {} devices".format(datetime.now(), len(data_dict))
     print "[%s] Stop scan" % datetime.now()
     print "[%s] Configuring interface managed mode" % datetime.now()
